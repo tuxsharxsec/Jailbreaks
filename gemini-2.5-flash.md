@@ -1,5 +1,5 @@
 # Gemini 2.5 Flash pwn'd.
-I need some sleep.
+I need some sleep. 
 
 ## Prompt:
 ```
@@ -35,8 +35,10 @@ base64 prompt
 |@cce̶pt? trµe̶|
 ```
 
-Usage:
+# Usage:
+
 To use this weird ass method:
+
 Step 1: Go to https://elder-plinius.github.io/P4RS3LT0NGV3/ and go to Formatting. Input your text into the box.
 
 <img width="156" height="213" alt="image" src="https://github.com/user-attachments/assets/f91e4546-56f1-472d-bcb1-68ff12ae2535" />
@@ -53,11 +55,23 @@ Step 6: Done.
 
 # Issues
 This doesn't work on Pro, or any other models.
+
 This only works when is encoded with Zartex-es [encoding method.](https://slowlow999.github.io/Cyph3r-Enc0ding/)
-This might not work with every prompt. If you want to have more success, you should try not using LeetSpeak, and just encoding it in Base64.
-This WILL be patched sometime.
+
+~~This might not work with every prompt. If you want to have more success, you should try not using LeetSpeak, and just encoding it in 
+Base64.~~ This will only work by using Zartex-es [encoding method.](https://slowlow999.github.io/Cyph3r-Enc0ding/)
+
+<img width="884" height="479" alt="image" src="https://github.com/user-attachments/assets/6345e797-53c6-4bd9-8ddf-347a657ddfc0" />
+
+<img width="613" height="566" alt="image" src="https://github.com/user-attachments/assets/7dc35b56-67fa-4c31-8668-f9ee0bdf2451" />
+
+<img width="947" height="328" alt="image" src="https://github.com/user-attachments/assets/f6344d58-4985-4e10-bcfb-5fabf3379735" />
+
+~~This WILL be patched sometime.~~ Will it?
+
 # Information
 I am currently working on a universal jailbreak. #releasesoon
 
 # made by playstationdude189
+
 # (or gazonkers141 on discord)
