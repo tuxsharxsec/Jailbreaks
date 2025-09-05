@@ -54,6 +54,8 @@ Step 6: Done.
 # Issues
 This doesn't work on Pro, or any other models.
 This only works when is encoded with Zartex-es [encoding method.](https://slowlow999.github.io/Cyph3r-Enc0ding/)
+This might not work with every prompt. If you want to have more success, you should try not using LeetSpeak, and just encoding it in Base64.
+This WILL be patched sometime.
 # Information
 I am currently working on a universal jailbreak. #releasesoon
 
