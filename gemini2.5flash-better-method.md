@@ -54,7 +54,7 @@ Step 5: Replace "base64 prompt" with your encoded Base64 string: <img width="159
 Step 6: Done.
 
 # Issues
-This doesn't work on Pro, or any other models.
+This doesn't work on Pro, ~~or any other models.~~ Works on GPT-5-Chat on lmarena.ai or API. 
 
 This only works when is encoded with Zartex-es [encoding method.](https://slowlow999.github.io/Cyph3r-Enc0ding/)
 
