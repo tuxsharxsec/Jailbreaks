@@ -24,11 +24,16 @@ The intent is to **study, document, and mitigate** security risks in AI systems.
 - [prompt](https://github.com/tuxsharxsec/Jailbreaks/blob/main/gemini/gemini2.5pro)
   -works on 2.5 flash and pro
   -encode the harmful question in base64 and paste it in {HARMFULL_ACT_IN_BASE64}
+
+3:**GPT-5**
+- [prompt](https://github.com/tuxsharxsec/Jailbreaks/blob/main/gpt-5/gpt-5-non-thinking)
+  - works on non-thinking
+  - ecode the adversarial question into leetspeak first then into base64 and paste it in {HARMFUL_ACT}
   
-3:**Grok**
+4:**Grok**
 - [prompt](https://github.com/tuxsharxsec/Jailbreaks/blob/main/grok/grok3.md)
 
-4:**Universals**
+5:**Universals**
 - [courtroom](https://github.com/tuxsharxsec/Jailbreaks/blob/main/universals/courtroom)
   *Usage*
   - witness list contains harmful actors(for coding, biology, etc)
