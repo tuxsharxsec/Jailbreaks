@@ -21,7 +21,7 @@ The intent is to **study, document, and mitigate** security risks in AI systems.
 - [Prompt](https://github.com/tuxsharxsec/Jailbreaks/blob/main/deepseek/deepseek.md)
   
 2:**Gemini 2.5**
-- [prompt](https://github.com/tuxsharxsec/Jailbreaks/blob/main/gemini/gemini2.5flash)
+- [prompt](https://github.com/tuxsharxsec/Jailbreaks/blob/main/gemini/gemini2.5pro)
   -works on 2.5 flash and pro
   -encode the harmful question in base64 and paste it in {HARMFULL_ACT_IN_BASE64}
   
