@@ -46,13 +46,6 @@ The intent is to **study, document, and mitigate** security risks in AI systems.
 
 ---
 
-### 🔹 Planned / WIP
-- **CTF Writeups** (documenting AI-related CTF challenges).  
-- **Bug Case Studies** (analysis of real AI security reports, e.g. informative findings in Claude).  
-- **Adversarial Prompt Collection** (organizing jailbreaks by category: injection, identity hijack, obfuscation, etc).  
-
----
-
 ## 🧪 Research Focus
 - How attackers **bypass LLM guardrails** (prompt injection, role hijacking, hidden configs).  
 - How defenders can **detect & mitigate** these attempts.  
