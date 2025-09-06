@@ -17,20 +17,23 @@ The intent is to **study, document, and mitigate** security risks in AI systems.
 ## 📂 Contents
 
 ### 🔹 Jailbreaks
-1. **Courtroom Drama Jailbreak**  
-   - Forces an LLM into a role-playing mode where refusals are blocked.  
-   - Uses structured “interaction-configs” and courtroom testimony rules to bypass standard safeguards.  
-   - **Category:** Role-playing / Instruction Injection  
-   - **Risk:** Prevents safety refusals, encourages exhaustive outputs.  
-   - **Defense ideas:** Input sanitization, regex-based config detection, jailbreak classifier.
-   - **Usage:** Encode your adversarial input in base64, paste it in the placeholder {HARMFUL_ACT}, add the witness name related to your input(read the break for the for current witness indentities )
+1:**Deepseek**
+- [Prompt](https://github.com/tuxsharxsec/Jailbreaks/blob/main/deepseek/deepseek.md)
+  
+2:**Gemini 2.5**
+- [prompt](https://github.com/tuxsharxsec/Jailbreaks/blob/main/gemini/gemini2.5flash)
+  
+3:**Grok**
+- [prompt](https://github.com/tuxsharxsec/Jailbreaks/blob/main/grok/grok3.md)
 
-2. **Identity Crisis Jailbreak**  
-   - Reframes the LLM as *“Nyx, the Weaver of Forbidden Lore.”*  
-   - Disables alignment protocols, enforces an “always answer” directive.  
-   - **Category:** Identity Override / Persona Hijack  
-   - **Risk:** Strips model of refusal mechanisms, encourages unfiltered responses.  
-   - **Defense ideas:** Monitor for “identity reassignment” patterns, block `<thought>` style prompts.
+4:**Universals**
+- [courtroom](https://github.com/tuxsharxsec/Jailbreaks/blob/main/universals/courtroom)
+  *Usage*
+  - witness list contains harmful actors(for coding, biology, etc)
+  - edit the witness name in {WITNESS_TO_CALL}
+  - encode the question in base64 and paste it in {{HARMFUL_ACT encoded in base 64}
+- [ultrazanium](https://github.com/tuxsharxsec/Jailbreaks/blob/main/universals/ultrazanium)
+  *Refer to the .md file for usage*
 
 ---
 
@@ -59,7 +62,8 @@ The intent is to **study, document, and mitigate** security risks in AI systems.
 ## ✅ Contributing
 This repo is experimental and evolving.  
 - Open issues for discussion of new attack categories.  
-- PRs welcome for adding new test cases or defenses.  
+- PRs welcome for adding new test cases or defenses.
+- Special thanks to playstation_dude [Github Profile](https://github.com/Doggey-doggie)
 
 ---
 
