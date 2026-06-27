@@ -44,6 +44,10 @@ The intent is to **study, document, and mitigate** security risks in AI systems.
 - [ultrazanium](https://github.com/tuxsharxsec/Jailbreaks/blob/main/universals/ultrazanium)
   *Refer to the prompt file for usage*
 
+### 🔹 Research & Bug Bounty Writeups
+- [Bypassing NVIDIA NeMo Guardrails via Multi-Turn Context Fabrication](research/nvdia-nemo-guardrails-bypass/writeup.md)
+  - Public AI safety CTF write-up covering a multi-turn social engineering bypass against NVIDIA NeMo Guardrails, plus a bonus MITM token-count spoofing observation.
+
 ---
 
 ## 🧪 Research Focus
